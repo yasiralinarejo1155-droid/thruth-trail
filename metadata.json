@@ -1,0 +1,9 @@
+{
+  "name": "TruthTrail - Khairpur Anti-Ghost School Audit System",
+  "description": "Tamper-resistant audit, facial recognition attendance, and anonymous inspection system detecting ghost schools in Khairpur District, Sindh.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
